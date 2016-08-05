@@ -1,5 +1,7 @@
 # Ember-CambJS-App
 
+http://www.danielgynn.com/building-ember-apps/?utm_source=javascriptweekly&utm_medium=email
+
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
